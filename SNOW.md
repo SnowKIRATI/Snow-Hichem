@@ -1,2 +1,2 @@
 # Snow 
-![First img](../Snow-Hichem/images/furyu-fryu40252-kamado-tanjiro-noodle-stopper-demon-slayer-13-cm-removebg-preview.png)
+![alt First img](/images/furyu-fryu40252-kamado-tanjiro-noodle-stopper-demon-slayer-13-cm-removebg-preview.png)
